@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 10px;
+    border: 10px groove aqua;
+    background-color: black;
+    font-family: "Sofia", sans-serif;
+}
+h1{
+    color: aqua;
+    text-align: center;
+}
+h5{
+    font-family: "Audiowide", sans-serif;
+    color: gold;
+}
+.day1{
+    color: aqua;
+}
+.comparison{
+    display: flex;
+    justify-content: space-around;
+    font-family: "Audiowide", sans-serif;
+    color: gold;
+}
+.relative{
+    width: 500px;
+    height: 250px;
+    border: 2px solid aqua;
+    border-radius: 12px;
+    box-sizing: border-box;
+    text-align: center;
+    
+    
+}
+.absolute{
+    text-align: center;
+    width: 500px;
+    height: 250px;
+    border: 2px solid aqua;
+    border-radius: 12px;
+    box-sizing: border-box;
+}
+
+.difference{
+    display: flex;
+    justify-content: space-around;
+    font-family: "Audiowide", sans-serif;
+    color: gold;
+}
+.padding{
+    width: 500px;
+    height: 220px;
+    border: 2px solid aqua;
+    border-radius: 12px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.margin{
+    width: 500px;
+    height: 220px;
+    border: 2px solid aqua;
+    border-radius: 12px;
+    box-sizing: border-box;
+    text-align: center;
+}
